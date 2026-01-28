@@ -1,0 +1,23 @@
+OTM System Design
+
+1. Purpose
+This system is designed to manage online task management efficiently.
+
+2. Users
+- Administrator
+- Normal User
+
+3. Main Functions
+- User login
+- Task creation
+- Task update
+- Task deletion
+- Task status tracking
+
+4. System Flow
+User logs in → creates tasks → updates tasks → system stores data
+
+5. Advantages
+- Easy to use
+- Efficient task tracking
+- Centralized management
